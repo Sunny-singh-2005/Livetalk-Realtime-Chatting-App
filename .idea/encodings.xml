@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/APIGateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/ChatService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/EurekaRegistry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/ModerationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/NotificationService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/PaymentGatewayService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/RoomService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/LiveTalk---Realtime-Chatting-App-1.0.0/UserService/src/main/java" charset="UTF-8" />
+  </component>
+</project>
